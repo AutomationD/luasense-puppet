@@ -1,0 +1,28 @@
+{
+  "name": "kireevco-luasense",
+  "version": "0.1.0",
+  "source": "UNKNOWN",
+  "author": "kireevco",
+  "license": "MIT",
+  "summary": "UNKNOWN",
+  "description": "UNKNOWN",
+  "project_page": "UNKNOWN",
+  "dependencies": [
+    {
+      "name": "puppetlabs/rabbitmq",
+      "version_requirement": ">= 5.1.0"
+    }
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Modulefile": "b03fe1eb94a78279e596d36d5935af5b",
+    "README": "43f125e3a21a79bf5a2b8d6279fa1181",
+    "manifests/init.pp": "e135f14370e20d3a2469b6583bc5d094",
+    "manifests/rabbitmq/config.pp": "d5d2e2c208439a742e13bf94da128836",
+    "manifests/rabbitmq/node.pp": "4dcecabd71f9d73f298ef0d95a5a1f49",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "tests/init.pp": "ba8c5e046ae53d0e42142b05d52df97b"
+  }
+}
